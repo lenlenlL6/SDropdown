@@ -42,3 +42,5 @@ function love.touchreleased(id, x, y)
   dropdown:touchReleased(id, x, y)
 end
 ```
+# Preview 😳
+![](https://github.com/SDropdown/20230707_212946_001.gif)
